@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World! I'am Zaky 👋
 
 <!--
 **ZakyCode/ZakyCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N3Y3B0Y2gxeHJjejM4ejdwaDRvanJibWs5cGw2c2ZncHphbjVsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif)
+
+- 🌱 I’m currently learning **Laravel Framework**
