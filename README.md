@@ -33,7 +33,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ZakyCode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=ZakyCode&icon=2&color=12)](https://visitcount.itsvg.in)
 
-## 🎮 Play games whit me
+## 🎮 Play games with me
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakyCode/ZakyCode/output/pacman-contribution-graph-dark.svg">
