@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working on project pyhton<br>🌱 <br>💬 Ask me about software<br>📫 How to reach me: https://zakycode.my.id
+🔭 I’m currently working on project pyhton <br>💬 Ask me about software<br>📫 How to reach me: https://zakycode.my.id
 
 ## 🌐 Socials:
 
